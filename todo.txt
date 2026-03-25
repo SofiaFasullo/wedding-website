@@ -1,0 +1,3 @@
+TO DO
+- resize hero-min.png file to be correct aspect ration so their faces aren't so zoomed in
+- create logo and logo-lg 
