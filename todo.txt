@@ -1,3 +1,7 @@
 TO DO
 - resize hero-min.png file to be correct aspect ration so their faces aren't so zoomed in
 - create logo and logo-lg 
+- get map to work either through embed google or the current api method
+- add directions somewhere
+- get video to show or delete/hide element
+- upload Livio and Chisato's photos
