@@ -5,3 +5,4 @@ TO DO
 - add directions somewhere
 - get video to show or delete/hide element
 - upload Livio and Chisato's photos
+- add directions
